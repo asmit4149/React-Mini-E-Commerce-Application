@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "price": 348,
+    "description": "Industry leading noise cancellation headphones with two processors and 8 microphones.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviews": 1245,
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Ceramic Vase",
+    "price": 45,
+    "description": "Hand-crafted matte ceramic vase for dried flowers or modern home decor.",
+    "category": "Home & Living",
+    "rating": 4.6,
+    "reviews": 156,
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Premium Leather Backpack",
+    "price": 185,
+    "description": "Full-grain leather backpack with a dedicated laptop sleeve. Perfect for your urban commute.",
+    "category": "Accessories",
+    "rating": 4.7,
+    "reviews": 324,
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ultra-Wide Gaming Monitor",
+    "price": 799.99,
+    "description": "34-inch curved ultra-wide monitor with 144Hz refresh rate and 1ms response time.",
+    "category": "Electronics",
+    "rating": 4.8,
+    "reviews": 567,
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Stainless Steel Water Bottle",
+    "price": 35,
+    "description": "Double-wall insulated water bottle keeps drinks cold for 24 hours or hot for 12 hours.",
+    "category": "Accessories",
+    "rating": 4.5,
+    "reviews": 2110,
+    "image": "/images/5.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smart Home Security Camera",
+    "price": 129.99,
+    "description": "1080p HD indoor security camera with motion detection and two-way audio.",
+    "category": "Home & Living",
+    "rating": 4.4,
+    "reviews": 840,
+    "image": "/images/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Classic White T-Shirt",
+    "price": 25,
+    "description": "Premium cotton classic white t-shirt for everyday wear. Breathable and comfortable.",
+    "category": "Fashion",
+    "rating": 4.9,
+    "reviews": 3200,
+    "image": "/images/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 120,
+    "description": "RGB mechanical keyboard with tactile switches for satisfying feedback.",
+    "category": "Electronics",
+    "rating": 4.7,
+    "reviews": 945,
+    "image": "/images/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Aviator Sunglasses",
+    "price": 85,
+    "description": "Classic aviator sunglasses with polarized lenses for UV protection.",
+    "category": "Accessories",
+    "rating": 4.6,
+    "reviews": 412,
+    "image": "/images/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cozy Knit Sweater",
+    "price": 65,
+    "description": "Warm and cozy oversized knit sweater. Perfect for chilly evenings.",
+    "category": "Fashion",
+    "rating": 4.8,
+    "reviews": 634,
+    "image": "/images/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Nordic Coffee Table",
+    "price": 199.99,
+    "description": "Minimalist wooden coffee table with Scandinavian design principles.",
+    "category": "Home & Living",
+    "rating": 4.5,
+    "reviews": 128,
+    "image": "/images/12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Wireless Ergonomic Mouse",
+    "price": 49.99,
+    "description": "Ergonomic wireless mouse designed for comfort during long working sessions.",
+    "category": "Electronics",
+    "rating": 4.3,
+    "reviews": 890,
+    "image": "/images/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Canvas Tote Bag",
+    "price": 15,
+    "description": "Eco-friendly durable canvas tote bag for your everyday shopping needs.",
+    "category": "Accessories",
+    "rating": 4.7,
+    "reviews": 1150,
+    "image": "/images/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Linen Bed Sheets Set",
+    "price": 110,
+    "description": "Breathable 100% linen bed sheets for a perfect and cool night sleep.",
+    "category": "Home & Living",
+    "rating": 4.9,
+    "reviews": 432,
+    "image": "/images/15.webp"
+  },
+  {
+    "id": 16,
+    "name": "Vintage Denim Jacket",
+    "price": 89.99,
+    "description": "Vintage wash denim jacket with a relaxed fit and durable stitching.",
+    "category": "Fashion",
+    "rating": 4.6,
+    "reviews": 576,
+    "image": "/images/16.jpg"
+  }
+]
